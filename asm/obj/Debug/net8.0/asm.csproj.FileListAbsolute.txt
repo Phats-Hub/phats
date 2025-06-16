@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\it\asm\asm\bin\Debug\net8.0\asm.exe
+C:\Users\ACER\OneDrive\Desktop\it\asm\asm\bin\Debug\net8.0\asm.deps.json
+C:\Users\ACER\OneDrive\Desktop\it\asm\asm\bin\Debug\net8.0\asm.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\it\asm\asm\bin\Debug\net8.0\asm.dll
+C:\Users\ACER\OneDrive\Desktop\it\asm\asm\bin\Debug\net8.0\asm.pdb
+C:\Users\ACER\OneDrive\Desktop\it\asm\asm\obj\Debug\net8.0\asm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\it\asm\asm\obj\Debug\net8.0\asm.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\it\asm\asm\obj\Debug\net8.0\asm.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\it\asm\asm\obj\Debug\net8.0\asm.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\it\asm\asm\obj\Debug\net8.0\asm.dll
+C:\Users\ACER\OneDrive\Desktop\it\asm\asm\obj\Debug\net8.0\refint\asm.dll
+C:\Users\ACER\OneDrive\Desktop\it\asm\asm\obj\Debug\net8.0\asm.pdb
+C:\Users\ACER\OneDrive\Desktop\it\asm\asm\obj\Debug\net8.0\asm.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\it\asm\asm\obj\Debug\net8.0\ref\asm.dll
